@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AniketAgra/E-commerce-website.git/static/css/main.63e0d020.css",
+    "main.js": "/AniketAgra/E-commerce-website.git/static/js/main.7ac4f83b.js",
+    "static/media/banner.png": "/AniketAgra/E-commerce-website.git/static/media/banner.0cd5fcb29863a487035b.png",
+    "index.html": "/AniketAgra/E-commerce-website.git/index.html",
+    "main.63e0d020.css.map": "/AniketAgra/E-commerce-website.git/static/css/main.63e0d020.css.map",
+    "main.7ac4f83b.js.map": "/AniketAgra/E-commerce-website.git/static/js/main.7ac4f83b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63e0d020.css",
+    "static/js/main.7ac4f83b.js"
+  ]
+}
